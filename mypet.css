@@ -3,9 +3,32 @@ h1 {
     text-align: center;
   }
 
-  p {
+p {
     font-family: sans-serif;
   }
-  ol {
+ol {
     line-height: 40px;
   }
+
+.extra p {
+    color: red;
+}
+
+.extra h6 {
+    font-size: larger;
+}
+
+img {
+    float: center;
+}
+
+.sidebar {
+    float: right;
+    background-color: yellow;
+    width: 100px;
+    font-style: unset;
+    padding: 12px;
+    margin-top: 2px;
+    border: 2px solid red;
+
+}
